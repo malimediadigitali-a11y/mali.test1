@@ -5,7 +5,7 @@ def update_label():
     age = entry_age.get()
     output = f"Hello, {name}! You are {age} years old."
     label_output.config(text=output)
-
+print("wait mali")
 root = tk.Tk()
 root.title("Adeshborde Interactivy")
 
